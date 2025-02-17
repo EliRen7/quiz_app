@@ -16,9 +16,6 @@
 
 }
 
-/* color: #262626;  */
-
-
 .container hr{
     height: 4px;
     border: none;
@@ -65,14 +62,9 @@
     color: black;
 }
 
-/*  background: #dffff2; */
-/* border-color: #00d397; */
 
 .container .wrong{
     background: #cb5858;
     border-color: #8f2a2a;
     color: black;
 }
-
-/* background: #ffebeb; */
-/*  border-color: #ff4a4a; */
